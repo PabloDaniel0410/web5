@@ -26,7 +26,9 @@ div.bloc2{
     height: 150px;
     /*display: block; comportamiento en bloque */
     /*display: inline;  comportamiento en linea*/
-    display: inline;
+    /*display: inline-block; de line apero resperta el tamaño */
+
+    
 
 
 }
